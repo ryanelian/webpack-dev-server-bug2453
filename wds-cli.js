@@ -43,8 +43,8 @@ const wdsConfig = {
 ////////////////////////////////////////////////////////////////////////
 WDS.addDevServerEntrypoints(config, wdsConfig);
 ////////////////////////////////////////////////////////////////////////
-// console.log(config);
-// console.log(config.entry);
+console.log(config);
+console.log(config.entry);
 
 const compiler = webpack(config);
 const devServer = new WDS(compiler, wdsConfig);
