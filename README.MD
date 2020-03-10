@@ -2,6 +2,8 @@
 
 > webpack-dev-server is not compatible with the latest webpack 5 beta 14
 
+https://github.com/ryanelian/webpack-dev-server-bug2453
+
 ## Getting Started
 
 Using the command line, run:
@@ -17,3 +19,5 @@ Uncomment to prove that the webpack configuration is valid for normal webpack bu
 //     console.log('webpack build OK!');
 // });
 ```
+
+Then, comment everything below that line.
