@@ -2,7 +2,7 @@
 
 > webpack-dev-server is not compatible with the latest webpack 5 beta 14
 
-https://github.com/webpack/webpack-dev-server/issues/2453s
+https://github.com/webpack/webpack-dev-server/issues/2453
 
 ## Getting Started
 
